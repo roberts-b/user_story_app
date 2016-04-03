@@ -1,0 +1,9 @@
+//processes.json:
+    {
+      "apps" : [{
+        "name"        : "server",
+        "script"      : "server.js",
+        "watch"      : true,
+        "log_date_format"  : "YYYY-MM-DD HH:mm Z"
+      }]
+    }
